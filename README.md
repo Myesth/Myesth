@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm @myesth</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
+<h5>Contact:</h5>
+<h6>
+e-mail: myesth.main@gmail.com
+discord: myesth
+</h6>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jakub jakubowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub jakubowski" height="30" width="40" /></a>
