@@ -3,7 +3,7 @@
 
 <h5>Contact:</h5>
 <h6>
-e-mail: myesth.main@gmail.com
+e-mail: myesth.main@gmail.com<br>
 discord: myesth
 </h6>
 
